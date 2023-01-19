@@ -1,4 +1,5 @@
 require('dotenv').config();
+require('dotenv').config();  //global variable
 
 const Sequelize = require('sequelize');
 
