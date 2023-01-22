@@ -12,13 +12,9 @@ Tag.init(
       autoIncrement:true,
       allowNull: false,
     },
-    product_id: {
-      type: DataTypes.INTEGER
+    tag_name: {
+      type: DataTypes.STRING,
     },
-    tag_id: {
-      type: DataTypes.INTEGER
-    },
-    // define columns
   },
   {
     sequelize,
