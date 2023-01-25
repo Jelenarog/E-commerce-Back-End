@@ -52,7 +52,7 @@ This application is covered under MIT, to find more information about it click o
 
 Github repo: https://github.com/Jelenarog/Employee-Tracker <br>
 Starter code: https://github.com/coding-boot-camp/fantastic-umbrella <br>
-Demo: 
+Demo: https://drive.google.com/file/d/1C9dk9UhGjKMG7Oe7YqKrqVWEJ9sRhE8G/view
 
 # Questions 
 
